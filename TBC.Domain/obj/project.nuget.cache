@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "sQ4KeFcJugY3obZo/8I1A2bK5xUzwYM8lalqoxHyli5AYDAixHyc+Uvfs11AIx4WJgn7CZkNJtMCEpPtCZTDYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ucha\\Desktop\\tbc\\TBC.Domain\\TBC.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ucha\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Ucha\\.nuget\\packages\\fluentvalidation\\10.0.4\\fluentvalidation.10.0.4.nupkg.sha512",
+    "C:\\Users\\Ucha\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Ucha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Ucha\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
