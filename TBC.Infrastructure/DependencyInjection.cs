@@ -21,9 +21,13 @@ namespace TBC.Infrastructure
             services.AddEntityFrameworkSqlServer();
             services.AddDbContextPool<PersonsDbContext>((serviceProvider, options) =>
             {
-                options.UseSqlServer(configuration.GetConnectionString("PersonsDatabase"));
+                options.UseSqlServer(configuration.GetConnectionString("PersonsDatabase"), sqlOptions => sqlOptions.CommandTimeout(20));
                 options.UseInternalServiceProvider(serviceProvider);
             });
+
+            //Update Database on start
+            var context = services.BuildServiceProvider().GetService<PersonsDbContext>();
+            context.Database.Migrate();
 
             services.AddScoped<PersonsDbContext>();
             services.AddTransient<ICityRepository, CityRepository>();
