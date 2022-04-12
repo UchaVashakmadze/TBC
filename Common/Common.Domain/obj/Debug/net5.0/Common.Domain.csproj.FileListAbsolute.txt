@@ -21,3 +21,15 @@ C:\Users\Ucha\Desktop\tbc\Common\Common.Domain\obj\Debug\net5.0\Common.Domain.cs
 C:\Users\Ucha\Desktop\tbc\Common\Common.Domain\obj\Debug\net5.0\Common.Domain.dll
 C:\Users\Ucha\Desktop\tbc\Common\Common.Domain\obj\Debug\net5.0\ref\Common.Domain.dll
 C:\Users\Ucha\Desktop\tbc\Common\Common.Domain\obj\Debug\net5.0\Common.Domain.pdb
+C:\Projects\TBC\Common\Common.Domain\bin\Debug\net5.0\Common.Domain.deps.json
+C:\Projects\TBC\Common\Common.Domain\bin\Debug\net5.0\Common.Domain.dll
+C:\Projects\TBC\Common\Common.Domain\bin\Debug\net5.0\Common.Domain.pdb
+C:\Projects\TBC\Common\Common.Domain\obj\Debug\net5.0\Common.Domain.csproj.AssemblyReference.cache
+C:\Projects\TBC\Common\Common.Domain\obj\Debug\net5.0\Common.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TBC\Common\Common.Domain\obj\Debug\net5.0\Common.Domain.AssemblyInfoInputs.cache
+C:\Projects\TBC\Common\Common.Domain\obj\Debug\net5.0\Common.Domain.AssemblyInfo.cs
+C:\Projects\TBC\Common\Common.Domain\obj\Debug\net5.0\Common.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\TBC\Common\Common.Domain\obj\Debug\net5.0\Common.Domain.dll
+C:\Projects\TBC\Common\Common.Domain\obj\Debug\net5.0\refint\Common.Domain.dll
+C:\Projects\TBC\Common\Common.Domain\obj\Debug\net5.0\Common.Domain.pdb
+C:\Projects\TBC\Common\Common.Domain\obj\Debug\net5.0\ref\Common.Domain.dll
