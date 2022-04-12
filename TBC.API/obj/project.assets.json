@@ -8252,23 +8252,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ucha\\.nuget\\packages\\": {},
+    "C:\\Users\\uvashakmadze\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ucha\\Desktop\\tbc\\TBC.API\\TBC.API.csproj",
+      "projectUniqueName": "C:\\Projects\\TBC\\TBC.API\\TBC.API.csproj",
       "projectName": "TBC.API",
-      "projectPath": "C:\\Users\\Ucha\\Desktop\\tbc\\TBC.API\\TBC.API.csproj",
-      "packagesPath": "C:\\Users\\Ucha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ucha\\Desktop\\tbc\\TBC.API\\obj\\",
+      "projectPath": "C:\\Projects\\TBC\\TBC.API\\TBC.API.csproj",
+      "packagesPath": "C:\\Users\\uvashakmadze\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\TBC\\TBC.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ucha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\uvashakmadze\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8277,24 +8277,23 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/ROTOR-GE/_packaging/Rotor_Feed/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Ucha\\Desktop\\tbc\\Common\\Common.API\\Common.Shared\\Common.Shared.csproj": {
-              "projectPath": "C:\\Users\\Ucha\\Desktop\\tbc\\Common\\Common.API\\Common.Shared\\Common.Shared.csproj"
+            "C:\\Projects\\TBC\\Common\\Common.API\\Common.Shared\\Common.Shared.csproj": {
+              "projectPath": "C:\\Projects\\TBC\\Common\\Common.API\\Common.Shared\\Common.Shared.csproj"
             },
-            "C:\\Users\\Ucha\\Desktop\\tbc\\TBC.Application\\TBC.Application.csproj": {
-              "projectPath": "C:\\Users\\Ucha\\Desktop\\tbc\\TBC.Application\\TBC.Application.csproj"
+            "C:\\Projects\\TBC\\TBC.Application\\TBC.Application.csproj": {
+              "projectPath": "C:\\Projects\\TBC\\TBC.Application\\TBC.Application.csproj"
             },
-            "C:\\Users\\Ucha\\Desktop\\tbc\\TBC.Common\\TBC.Common.csproj": {
-              "projectPath": "C:\\Users\\Ucha\\Desktop\\tbc\\TBC.Common\\TBC.Common.csproj"
+            "C:\\Projects\\TBC\\TBC.Common\\TBC.Common.csproj": {
+              "projectPath": "C:\\Projects\\TBC\\TBC.Common\\TBC.Common.csproj"
             },
-            "C:\\Users\\Ucha\\Desktop\\tbc\\TBC.Infrastructure\\TBC.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Ucha\\Desktop\\tbc\\TBC.Infrastructure\\TBC.Infrastructure.csproj"
+            "C:\\Projects\\TBC\\TBC.Infrastructure\\TBC.Infrastructure.csproj": {
+              "projectPath": "C:\\Projects\\TBC\\TBC.Infrastructure\\TBC.Infrastructure.csproj"
             }
           }
         }
@@ -8354,7 +8353,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

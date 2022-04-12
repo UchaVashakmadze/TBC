@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c3FjklR71K6pseWtEIoA2xyjBMJ6v+A80DkpwKU147qSwNai3iEOrGfrALYrmhVjfNLCsrMc3WXPXYDEd8Pcug==",
+  "dgSpecHash": "SdYaUUtOzyKjNrD2QcCOVwtwaq+6cOQPUGQB9/rEJdY+Rm/vq/cMa9IEWyMgt4R071UEtBAWWoOE3USUtA0X2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ucha\\Desktop\\tbc\\Common\\Common.Domain\\Common.Domain.csproj",
+  "projectFilePath": "C:\\Projects\\TBC\\Common\\Common.Domain\\Common.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
